@@ -1,5 +1,5 @@
 // Verificar se Chart.js foi carregado
-function
+
 if (typeof Chart === "undefined") {
   console.error(
     "Chart.js não foi carregado. Verifique a conexão com a internet."
